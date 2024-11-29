@@ -31,8 +31,6 @@ jobs:
           path-to-lcov: coverage.out
           coveralls-endpoint: https://coveralls.io
           parallel: false
-          coveralls-repo-token: ${{ secrets.COVERALLS_TOKEN }}
-
   sonarcloud:
     name: SonarQube Cloud
     runs-on: ubuntu-latest
