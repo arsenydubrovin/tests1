@@ -1,4 +1,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/arsenydubrovin/tests1/badge.svg?branch=master)](https://coveralls.io/github/arsenydubrovin/tests1?branch=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ekaterina0sokolova_software_testing1&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=adfsghjkmgfwdasfgthyfjmhgs_tests1)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=adfsghjkmgfwdasfgthyfjmhgs_tests1&metric=bugs)](https://sonarcloud.io/summary/new_code?id=adfsghjkmgfwdasfgthyfjmhgs_tests1)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=adfsghjkmgfwdasfgthyfjmhgs_tests1&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=adfsghjkmgfwdasfgthyfjmhgs_tests1)
 
 ### План тестирования
 
