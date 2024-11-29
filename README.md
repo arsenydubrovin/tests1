@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/arsenydubrovin/tests1/badge.svg?branch=master)](https://coveralls.io/github/arsenydubrovin/tests1?branch=master)
+
 ### План тестирования
 
 | Название | Тип | Входные данные | Ожидается |
